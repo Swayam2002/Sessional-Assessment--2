@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+.image{
+    padding: 1rem;
+    margin: 4% 2%;
+    width: 29%;
+    border-radius: 4%;
+}
+
+#heading{
+    display: flex;
+    justify-content:flex-start;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 3%;
+}
+
+.click{
+    outline: none;
+    padding: 1%;
+    font-size: 1.2rem;
+}
